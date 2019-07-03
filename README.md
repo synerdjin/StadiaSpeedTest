@@ -6,8 +6,8 @@ Check your connection speed to Stadia servers continuously.
 
 2. Instal dependencies:
 
-`npm install`
+    `npm install`
 
 3. Run script:
 
-`./run.sh` 
+    `./run.sh` 
