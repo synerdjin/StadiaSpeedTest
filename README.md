@@ -11,4 +11,6 @@ To execute commands below use terminal.app on your mac (make sure you're in the 
 
 2. Run script:
 
-    `./run.sh` 
+   On mac execute `./run.sh` in terminal app.
+   
+   On Windows in cmd run `powershell "node speedtest.js | tee speedtest.log"`
