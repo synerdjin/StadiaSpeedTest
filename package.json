@@ -1,0 +1,11 @@
+{
+  "name": "pupperteer-example",
+  "version": "1.0.0",
+  "description": "Test if your provider is ready for Stadia",
+  "main": "speedtest.js",
+  "author": "emedentsii",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "1.18.1"
+  }
+}
